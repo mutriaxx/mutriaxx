@@ -3,6 +3,12 @@
 <li>🌱 I’m currently studying at 💛SoyHenry and 💚Platzy.</li>
 <br>
 <h2>Skills</h2>
+I developed projects using:
+<li>HTML</li>
+<li>CSS</li>
+<li>Bootstrap</li>
+<li>JavaScript</li>
+<li>React</li>
 
 
 <!--
