@@ -7,7 +7,9 @@ I developed projects using:
 <li>HTML</li>
 <li>CSS</li>
 <li>Bootstrap</li>
-<li>JavaScript</li>
+<li><span class="material-icons">
+javascript
+</span>JavaScript</li>
 <li>React</li>
 
 
