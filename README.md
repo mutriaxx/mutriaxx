@@ -7,7 +7,8 @@ I developed projects using:
 <li>HTML</li>
 <li>CSS</li>
 <li>Bootstrap</li>
-<li></li>
+<p align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank">
+
 <li>React</li>
 
 
