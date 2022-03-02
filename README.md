@@ -1,5 +1,8 @@
 # ¡Hey there! I'm Marcela 👋
-I'm a Full Stack Developer
+💬 I'm a Full Stack Developer from Colombia, I am passionate about web technologies and my desire to learn never ends.
+🌱 I’m currently studying at 💛SoyHenry and 💚Platzy.
+
+
 
 <!--
 **mutriaxx/mutriaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
