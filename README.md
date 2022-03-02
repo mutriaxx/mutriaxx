@@ -1,6 +1,6 @@
 # ¡Hey there! I'm Marcela 👋
-💬 I'm a Full Stack Developer from Colombia, I am passionate about web technologies and my desire to learn never ends.
-🌱 I’m currently studying at 💛SoyHenry and 💚Platzy.
+<li>💬 I'm a Full Stack Developer from Colombia, I am passionate about web technologies and my desire to learn never ends.</li>
+<li>🌱 I’m currently studying at 💛SoyHenry and 💚Platzy.</li>
 
 
 
