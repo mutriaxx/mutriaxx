@@ -9,6 +9,13 @@ I developed projects using:
 <li>Bootstrap</li>
 <li>JavaScript</li>
 <li>React</li>
+<li>PostgreSQL</li>
+<li>Chakra UI</li>
+<li>Redux</li>
+<li>ExpressJS</li>
+<li>Node</li>
+
+
 
 
 <!--
