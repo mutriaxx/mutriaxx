@@ -34,8 +34,5 @@ aprendiendo nuevas tecnologías.</h3>
   <li>PostgreSQL</li>  
 </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutriaxx&show_icons=true&locale=en&layout=compact" alt="mutriaxx" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutriaxx&show_icons=true&locale=en&layout=compact" alt="mutriaxx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mutriaxx&show_icons=true&locale=en" alt="mutriaxx" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mutriaxx&" alt="mutriaxx" /></p>
