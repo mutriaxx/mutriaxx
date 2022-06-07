@@ -21,13 +21,17 @@ aprendiendo nuevas tecnologías.</h3>
 <h3 align="left">Lenguajes y herramientas que utilizo:</h3>
 <ul>
   <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Figma</li>
+  <li>React</li>
+  <li>Redux</li>
+  <li>Sequelize</li>
+  <li>Node.js</li>
+  <li>Node.js</li>
+  <li>Chakra UI</li>
+  <li>Bootstrap</li>
+  <li>PostgreSQL</li>  
 </ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutriaxx&show_icons=true&locale=en&layout=compact" alt="mutriaxx" /></p>
