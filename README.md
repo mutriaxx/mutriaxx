@@ -27,12 +27,12 @@ aprendiendo nuevas tecnologías.</h3>
 </ul>
 
 <h3 align="left">Contáctame en:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marcela-utria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcela-utria" height="20" width="30" /> Marcela Utria</a>
-  <br>
-  <br>
-<a href="https://instagram.com/marce_utria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marce_utria" height="20" width="30" /> marce_utria</a>
-</p>
+
+  <ul>
+<li><a href="https://linkedin.com/in/marcela-utria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcela-utria" height="10" width="20" /> Marcela Utria</a></li>
+<li><a href="https://instagram.com/marce_utria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marce_utria" height="10" width="20" /> marce_utria</a></li>
+    </ul>
+
 
 
 <h3 align="left">Portafolio:</h3>
