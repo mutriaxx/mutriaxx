@@ -12,6 +12,7 @@ aprendiendo nuevas tecnologías.</h3>
 
 <h3 align="left">Contáctame en:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/marcela-utria/" target="_blank"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.marcelautria.tech/#linkedin"></use></svg></a>
 <a href="https://linkedin.com/in/marcela-utria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcela-utria" height="30" width="40" /></a>
 <a href="https://instagram.com/marce_utria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marce_utria" height="30" width="40" /></a>
 </p>
