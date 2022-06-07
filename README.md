@@ -34,13 +34,8 @@ aprendiendo nuevas tecnologías.</h3>
 <a href="https://instagram.com/marce_utria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marce_utria" height="20" width="30" /> marce_utria</a>
 </p>
 
-<br>
 
 <h3 align="left">Portafolio:</h3>
-<a href="https://linkedin.com/in/marcela-utria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcela-utria" height="20" width="30" /> marcelautria.tech</a>
+<a href="https://linkedin.com/in/marcela-utria" target="blank">marcelautria.tech</a>
 
-<br>
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutriaxx&show_icons=true&locale=en&layout=compact" alt="mutriaxx" />
 
