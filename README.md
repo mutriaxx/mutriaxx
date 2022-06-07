@@ -1,8 +1,8 @@
-[![MasterHead](https://i.pinimg.com/originals/17/ee/68/17ee68de64662ab7dc3d1482b788491f.gif)](https://rishavchanda.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQHvObUzQUmg5g/profile-displaybackgroundimage-shrink_200_800/0/1654567967477?e=1660176000&v=beta&t=fSmBYVdANPgdK3gKjEuqygsSOPiHNOl-Pw1X2KDxWSU)](https://rishavchanda.io)
 
 <h1 align="center">Hola 👋, Soy Marcela Utria</h1>
 <h3 align="center">Una full stack developer de Colombia.</h3>
-<img align="right" alt="Coding" width="400" src="[https://p0.piqsels.com/preview/600/243/618/javascript-vscode-editor-code.jpg](https://i.pinimg.com/originals/17/ee/68/17ee68de64662ab7dc3d1482b788491f.gif)">
+<img align="right" alt="Coding" width="400" src="[https://p0.piqsels.com/preview/600/243/618/javascript-vscode-editor-code.jpg](https://media-exp1.licdn.com/dms/image/C4E16AQHvObUzQUmg5g/profile-displaybackgroundimage-shrink_200_800/0/1654567967477?e=1660176000&v=beta&t=fSmBYVdANPgdK3gKjEuqygsSOPiHNOl-Pw1X2KDxWSU)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mutriaxx&label=Profile%20views&color=0e75b6&style=flat" alt="mutriaxx" /> </p>
 
