@@ -36,7 +36,7 @@ aprendiendo nuevas tecnologías.</h3>
 
 
 <h3 align="left">Portafolio:</h3>
-<a href="https://linkedin.com/in/marcela-utria" target="blank">marcelautria.tech</a>
+<a href="https://marcelautria.tech" target="blank">marcelautria.tech</a>
 
 
 
