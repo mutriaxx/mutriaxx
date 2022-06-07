@@ -10,14 +10,6 @@ aprendiendo nuevas tecnologías.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mutriaxx&label=Profile%20views&color=0e75b6&style=flat" alt="mutriaxx" /> </p>
 
-<h3 align="left">Contáctame en:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marcela-utria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcela-utria" height="20" width="30" /> Marcela Utria</a>
-  <br>
-  <br>
-<a href="https://instagram.com/marce_utria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marce_utria" height="20" width="30" /> marce_utria</a>
-</p>
-
 <h3 align="left">Lenguajes y herramientas que utilizo:</h3>
 <ul>
   <li>HTML</li>
@@ -33,6 +25,22 @@ aprendiendo nuevas tecnologías.</h3>
   <li>Bootstrap</li>
   <li>PostgreSQL</li>  
 </ul>
+
+<h3 align="left">Contáctame en:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/marcela-utria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcela-utria" height="20" width="30" /> Marcela Utria</a>
+  <br>
+  <br>
+<a href="https://instagram.com/marce_utria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marce_utria" height="20" width="30" /> marce_utria</a>
+</p>
+
+<br>
+
+<h3 align="left">Portafolio:</h3>
+<a href="https://linkedin.com/in/marcela-utria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcela-utria" height="20" width="30" /> marcelautria.tech</a>
+
+<br>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutriaxx&show_icons=true&locale=en&layout=compact" alt="mutriaxx" />
 
