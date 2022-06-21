@@ -46,6 +46,6 @@ aprendiendo nuevas tecnologías.</h3>
 <p>SPA de recetas, en la que se puede buscar, filtrar, ordenar y crear nuevas recetas.</p>
 <p>Las recetas fueron traídas desde una API (Spoonacular API), y la aplicación fue desarrollada utilizando: HTML, CSS, Javascript, React, Redux, Node.js, PostgresSQL, y Express.js.</p>
 <br>
-<a href="http://cookbook-app-beta.vercel.app/"><img src="https://www.marcelautria.tech/assets/img/FireShot%20Capture%20001%20-%20CookBook%20APP%20-%20cookbook-app-beta.vercel.app.png" /></a>
+<a href="http://cookbook-app-beta.vercel.app/"><img src="https://www.marcelautria.tech/images/portfolio-img1.png" /></a>
 
 
